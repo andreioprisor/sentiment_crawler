@@ -1,0 +1,5 @@
+transformers
+pandas
+torch
+bitsandbytes
+accelerate>=0.26.0

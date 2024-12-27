@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.investing.com/news/cryptocurrency-news/2",
+    "errorMessage": "Detected a session error, rotating session... \nnet::ERR_TUNNEL_CONNECTION_FAILED at https://www.investing.com/news/cryptocurrency-news/2\n",
+    "timestamp": "2024-12-27T19:57:12.020Z",
+    "retryCount": 10
+  },
+  {
+    "url": "https://www.investing.com/news/cryptocurrency-news/1",
+    "errorMessage": "Detected a session error, rotating session... \nnet::ERR_TUNNEL_CONNECTION_FAILED at https://www.investing.com/news/cryptocurrency-news/1\n",
+    "timestamp": "2024-12-27T19:57:12.037Z",
+    "retryCount": 10
+  }
+]

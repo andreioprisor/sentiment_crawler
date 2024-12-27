@@ -1,0 +1,7 @@
+.idea
+dist
+node_modules
+storage
+sentiment_analyzer/__pycache__
+sentiment_analyzer/crawler_env
+
